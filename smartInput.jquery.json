@@ -1,0 +1,26 @@
+{
+    "name": "smartinput",
+    "title": "Smart Input ~",
+    "description": "A supercharger for your input fields in an accounting app",
+    "keywords": ["account", "accounting"],
+    "version": "1.0.0",
+    "author": {
+        "name": "Riliwan Balogun",
+        "url": "https://github.com/riliwanrabo/s"
+    },
+    "maintainers": [{
+        "name": "Riliwan Balogun",
+        "url": "https://github.com/riliwanrabo"
+    }],
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+    // "bugs": "https://github.com/jquery-boilerplate/boilerplate/issues",
+    // "homepage": "http://jqueryboilerplate.com",
+    "docs": "https://github.com/riliwanrabo/smartInput/#readme",
+    "download": "https://github.com/jquery-boilerplate/boilerplate/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}

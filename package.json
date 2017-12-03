@@ -1,0 +1,23 @@
+{
+  "name": "smartinput",
+  "version": "1.0.0",
+  "description": "A supercharger for input field for accounting apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riliwanrabo/smartInput.git"
+  },
+  "keywords": [
+    "accounting",
+    "input"
+  ],
+  "author": "Riliwan Balogun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riliwanrabo/smartInput/issues"
+  },
+  "homepage": "https://github.com/riliwanrabo/smartInput#readme"
+}
