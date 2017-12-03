@@ -1,6 +1,6 @@
 {
   "name": "smartinput",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A supercharger for input field for accounting apps",
   "main": "index.js",
   "scripts": {
