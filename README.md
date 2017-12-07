@@ -11,8 +11,12 @@ A plugin that supercharges input fields for accounting softwares alike.
 Give your input field names when using smartInput and the rest is a breeze.
  
 
-Initialize smartinput  :+1:
+### Installation
+```javascript
+npm install smartinput --save
+```
 
+### Usage
 ```javascript
 $(function(){
   $('input').smartInput();
