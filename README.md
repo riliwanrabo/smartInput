@@ -22,7 +22,7 @@ $(function(){
   $('input').smartInput();
 });
 ```
-
+[View Demo](https://riliwanrabo.github.io/smartInput/demo.html) | <a href="smartinput.js">Download smartInput.js</a>
 
 
 ### credits:
